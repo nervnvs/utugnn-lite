@@ -121,6 +121,12 @@ body {
   width: 100%;
   font-size: 1.6rem; }
 
+.staff-section-plays p {
+  text-align: center;
+  width: 100%;
+  font-size: 1rem;
+  color: lightslategray }
+
 ul {
   list-style: none; }
 
